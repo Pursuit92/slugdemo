@@ -4,5 +4,6 @@ int main(void)
 {
 	printf("Hello, world!\n");
 	printf("I love git.\n");
+	printf("not yet staged.\n");
 
 }
