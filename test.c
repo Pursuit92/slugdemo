@@ -6,4 +6,6 @@ int main(void)
 	printf("I love git.\n");
 	printf("not yet staged.\n");
 
+
+	printf("More master changes\n");
 }
