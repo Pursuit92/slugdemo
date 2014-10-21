@@ -7,5 +7,5 @@ int main(void)
 	printf("not yet staged.\n");
 
 	printf("More master changes\n");
-	printf("This is on the new branch!");
+	printf("Hi Josh!");
 }
